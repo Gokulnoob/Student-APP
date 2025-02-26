@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "133699926705",
+    "project_id": "student-event-management-25",
+    "storage_bucket": "student-event-management-25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133699926705:android:c615e12348442577794090",
+        "android_client_info": {
+          "package_name": "com.example.student_event_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl6DtlMhUgUWpRqQarNoD1cPZKH7H7GV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

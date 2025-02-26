@@ -1,0 +1,21 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "student-event-management-25",
+          "appId": "1:133699926705:android:c615e12348442577794090",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "student-event-management-25",
+          "configurations": {
+            "android": "1:133699926705:android:c615e12348442577794090"
+          }
+        }
+      }
+    }
+  }
+}
