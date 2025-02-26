@@ -18,8 +18,7 @@ class _CareerGuidanceChatbotScreenState
     extends State<CareerGuidanceChatbotScreen> {
   final TextEditingController _controller = TextEditingController();
   final List<Map<String, String>> _messages = [];
-  final String _apiKey =
-      'AIzaSyCK9IpKkC0KTGu4_tLP_149amU0UQT1ARY'; // Replace with actual API key
+  final String _apiKey = 'Your api key'; // Replace with actual API key
   bool _isTyping = false;
   bool _isPressed = false;
 
